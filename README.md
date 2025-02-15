@@ -3,7 +3,7 @@
 Welcome to the BAE ! 
 
 ## Table of Contents 
-- [Project Overview](#project-overview-)
+- [Project Overview](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview))
 - [Project DEMO Video](#project-DEMO-)
 - [Team Members](#team-members-)
 - [Project Features](#project-features-)
