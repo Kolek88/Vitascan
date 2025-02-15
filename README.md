@@ -18,6 +18,7 @@ This comprehensive healthcare system for the "BAE" is an advanced AI-driven heal
 
 ## Presentation
 
+https://www.canva.com/design/DAGfItB1Mkc/n1Dn6hAx3IZ_hHrBZMmf_Q/edit?utm_content=DAGfItB1Mkc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Project DEMO 
 
@@ -31,12 +32,12 @@ This comprehensive healthcare system for the "BAE" is an advanced AI-driven heal
 ## Project Features 
 
 ### 1. Main 
-//need to change
-New users can seamlessly register by providing a unique User ID and Password. 🔑
+
+In this feature, we have description about what we provide and a welcoming speech to our user .
 
 ### 2. Service
-//need to change
-Registered users can effortlessly log in using their User ID and Password. 🔒
+
+For this page, this is where our open AI takes place . We provide service to communicate with our "Chat With Bae" regarding user situation and what solution to give .
 
 ### 3. Location 
 //need to change 
