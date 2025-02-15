@@ -9,7 +9,7 @@ Welcome to the BAE !
 - [Project Features](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
    - [Main](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
    - [Service](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
-   - [Location](#3-Location-)
+   - [Location](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview))
 
 
 ## Project Overview 
