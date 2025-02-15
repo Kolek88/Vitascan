@@ -5,7 +5,7 @@ Welcome to the BAE !
 ## Table of Contents 
 - [Project Overview](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
 - [Project DEMO Video]([#project-DEMO-](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview))
-- [Team Members](#team-members-)
+- [Team Members]([#team-members-](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview))
 - [Project Features](#project-features-)
    - [Main](#1-Main-)
    - [Service](#2-Service-)
