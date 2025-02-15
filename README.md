@@ -7,7 +7,7 @@ Welcome to the BAE !
 - [Project DEMO Video](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
 - [Team Members](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
 - [Project Features](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
-   - [Main](#1-Main-)
+   - [Main](https://github.com/Kolek88/BAE/blob/main/README.md#project-overview)
    - [Service](#2-Service-)
    - [Location](#3-Location-)
 
